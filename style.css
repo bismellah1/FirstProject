@@ -29,6 +29,10 @@ section {
     line-height: 200px;
 }
 
-#project3 {
+#project3 , #project1 {
 background-color: blue;
+}
+
+h1, h2 {
+    color: 333px;
 }
